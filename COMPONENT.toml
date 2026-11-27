@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-flutter"
+version = "0.1.0"
+category = "platform"
+description = "Flutter desktop and embedded UI runtime for SigmaOS"
